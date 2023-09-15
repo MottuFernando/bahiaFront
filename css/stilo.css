@@ -6,12 +6,12 @@ h1 {text-decoration: underline;
   color:#cd5c5c;
 }
 body {
-
   text-align: center;
-  background: rgb(146,146,236);
   background: linear-gradient(90deg, rgba(146,146,236,1) 0%, rgba(242,242,253,1) 49%, rgba(146,146,236,1) 100%);
 }
-.miimagen {width: 50%;}
+.miimagen {
+  width: 50%;
+}
 ol,ul {
   text-align: left;
 }
